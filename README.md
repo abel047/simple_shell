@@ -1,4 +1,4 @@
-# Abel Yohannes and Danyit Deboch Shell
+# Abel Yohannes and Danyt Deboch Shell
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
